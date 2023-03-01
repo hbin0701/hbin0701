@@ -11,7 +11,8 @@ Hello :) I'm a student currently studying in **KAIST**, South Korea.
 2. ![badge](https://shields.io/badge/-NLP-blue) [**MED-SE: Medical Entity Definition-based Sentence Embedding**](https://arxiv.org/abs/2212.04734) (@ Arxiv, 2022) \
 **Hyeonbin Hwang**, Haanju Yoo, Yera Choi 
 
-
+3. ![badge](https://shields.io/badge/-NLP-blue) [**In-Context Instruction Learning**](https://arxiv.org/abs/2302.14691) (WIP, @ Arxiv, 2023)
+Seonghyeon Ye, **Hyeonbin Hwang**, Sohee Yang, Hyeongu Yun, Yireun Kim, Minjoon Seo
 
 
 
